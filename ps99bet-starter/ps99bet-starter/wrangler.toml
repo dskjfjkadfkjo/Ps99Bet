@@ -1,4 +1,4 @@
-name = "ps99bets"
+name = "psbet"
 main = "apps/worker/src/index.ts"
 compatibility_date = "2026-01-01"
 
