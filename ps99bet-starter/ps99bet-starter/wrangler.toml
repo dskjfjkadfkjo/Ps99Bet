@@ -1,4 +1,4 @@
-name = "ps99bet-api"
+name = "ps99bets"
 main = "apps/worker/src/index.ts"
 compatibility_date = "2026-01-01"
 
