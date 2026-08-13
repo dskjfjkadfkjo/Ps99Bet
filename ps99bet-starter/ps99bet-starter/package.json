@@ -3,6 +3,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev apps/web",
-    "build": "next build apps/web"
+    "build": "next build apps/web",
+    "start": "next start apps/web"
+  },
+  "dependencies": {
+    "next": "15.4.6",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
   }
 }
