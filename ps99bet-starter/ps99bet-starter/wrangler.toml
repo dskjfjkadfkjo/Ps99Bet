@@ -1,0 +1,8 @@
+name = "ps99bet-api"
+main = "apps/worker/src/index.ts"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ps99bet-db"
+database_id = "REPLACE_ME"
